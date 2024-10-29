@@ -1,0 +1,23 @@
+{
+  "name": "slash-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "axios": "^1.7.7",
+    "discord-api-types": "^0.37.103",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0"
+  }
+}
